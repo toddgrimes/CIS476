@@ -1,0 +1,15 @@
+
+Instructions for application Stateless Cart
+
+Create a e-commerce site consisting of at least three pages:
+
++ Display at least five items that can be purchased along with a quantity field
+  and price for each. Provide a submit button that sends the order to the server
+  for processing.
+
++ Create an order summary page based on the quantities chosen on the first page.
+  Display a subtotal for confirmation. When the user confirms the purchase they
+  are sent to the final page for payment.
+
++ Calculate the tax based on the rate in Florence. Display the subtotal, tax,
+  and total.
